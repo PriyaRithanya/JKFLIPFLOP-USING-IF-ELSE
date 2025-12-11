@@ -45,6 +45,7 @@ endmodule
 <img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/52ad27c1-8e8d-423a-99fa-fca25bb47e7a" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/2ff1cc7e-f91d-4ecc-8bdf-1d37c1df827d" />
+![WhatsApp Image 2025-12-11 at 19 54 34_eb9889c8](https://github.com/user-attachments/assets/8339b019-b54a-4758-a86c-9d6f2da9bdf3)
+
 
 **RESULTS**
